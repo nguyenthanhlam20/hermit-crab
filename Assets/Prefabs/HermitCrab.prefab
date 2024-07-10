@@ -10,7 +10,7 @@ GameObject:
   m_Component:
   - component: {fileID: 2238838040637879245}
   - component: {fileID: 2238838040637879242}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: SecondLeftLeg
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -94,7 +94,7 @@ GameObject:
   m_Component:
   - component: {fileID: 2238838040688855916}
   - component: {fileID: 2238838040688855917}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: WizardShell
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -178,7 +178,7 @@ GameObject:
   m_Component:
   - component: {fileID: 2238838040793060410}
   - component: {fileID: 2238838040793060411}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: ThirdLeftLeg
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -262,7 +262,7 @@ GameObject:
   m_Component:
   - component: {fileID: 2238838041059378306}
   - component: {fileID: 2238838041059378307}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Body
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -349,7 +349,7 @@ GameObject:
   m_Component:
   - component: {fileID: 2238838041228270198}
   - component: {fileID: 2238838041228270199}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: FirstRightLeg
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -433,7 +433,7 @@ GameObject:
   m_Component:
   - component: {fileID: 2238838041528390953}
   - component: {fileID: 2238838041528390966}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: SecondRightLeg
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -520,7 +520,7 @@ GameObject:
   - component: {fileID: 2238838042120568942}
   - component: {fileID: 2238838042120568940}
   - component: {fileID: 2238838042120568941}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Bubble
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -654,7 +654,7 @@ GameObject:
   m_Component:
   - component: {fileID: 2238838042141380862}
   - component: {fileID: 2238838042141380863}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: AquaShell
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -741,7 +741,7 @@ GameObject:
   - component: {fileID: 2238838042415484412}
   - component: {fileID: 2238838042415484408}
   - component: {fileID: 2238838042415484409}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: HermitCrab
   m_TagString: Player
   m_Icon: {fileID: 0}
@@ -902,7 +902,7 @@ GameObject:
   m_Component:
   - component: {fileID: 2238838042444918768}
   - component: {fileID: 2238838042444918769}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: FirstLeftLeg
   m_TagString: Untagged
   m_Icon: {fileID: 0}

@@ -60,7 +60,7 @@ public class CrabController : MonoBehaviour
 
         ActiveItem();
 
-        Jump();        
+        Jump();
     }
 
     private void CheckBeOnGround()
@@ -172,6 +172,14 @@ public class CrabController : MonoBehaviour
         if (jumpValue == 0f && isGrounded && (!itemActived || alwaysActive.Contains(activeItemIndex)))
         {
             rb.velocity = new Vector2(moveInput * moveSpeed, rb.velocity.y);
+            if (moveInput != 0)
+            {
+                animator.Play("MovingHermitCrabAnimation");
+            }
+            else
+            {
+                animator.StopPlayback();
+            }
         }
     }
 
